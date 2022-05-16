@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  background-color: rosybrown;
+  text-align: center;
+  top: 0;
+  position: fixed;
+  left: 42%;
+}
+
+#titulo {
+  text-align: center;
+}
+
+#minha_foto {
+  margin-top: 50px;
+}
+
+#rodape {
+  background-color: rosybrown;
+  text-align: center;
+}
+
